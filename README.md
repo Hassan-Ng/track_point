@@ -38,7 +38,7 @@ TrackPoint uses **SQLite** as its database. Download and install SQLite3 from:
 ### Step 3: Clone the Repository and Install Dependencies
 
 ```sh
-git clone https://github.com/yourusername/trackpoint.git
+git clone https://github.com/Hassan-Ng/trackpoint.git
 cd trackpoint
 composer install
 ```
